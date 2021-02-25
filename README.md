@@ -19,4 +19,4 @@ default_envs = STM32F103RET6_creality
 
 #### Included firmware.bin
 
-I've now included a pre-compiled firmware.bin, ready to be flashed. A diff of the modified files vs originals can be viewed [HERE](https://github.com/aidenatt/Ender-3-Pro-Marlin/compare/4ac6f9b..e730e75).
+I've now included a pre-compiled firmware.bin, ready to be flashed. A diff of the modified files vs originals can be viewed [HERE](https://github.com/aidenatt/Ender-3-Pro-Marlin/compare/4ac6f9b..f02b238).
