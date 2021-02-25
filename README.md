@@ -15,3 +15,8 @@ Because the 4.2.2 & 4.2.7 boards have dedicated BLTouch headers, the pin 27 boar
 ```
 default_envs = STM32F103RET6_creality
 ```
+
+
+#### Included firmware.bin
+
+I've now included a pre-compiled firmware.bin, ready to be flashed. All config modifications can be viewed [HERE](https://github.com/aidenatt/Ender-3-Pro-Marlin/compare/4ac6f9b..e730e75).
